@@ -143,10 +143,10 @@ def surfacearea(request):
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot (21).png>)
+![alt text](<Screenshot (22).png>)
 
 ## HOME PAGE:
-![alt text](<Screenshot (22).png>)
+![alt text](<Screenshot (21).png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
