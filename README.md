@@ -75,7 +75,7 @@ h1 {
 <body>
 <div class="edge">
     <div class="box">
-        <h1>Surface area of Right Clinder</h1>
+        <h1>Surface area of Right Clinder </h1>
         <h3>PRAJAN P (212223240121)</h3>
         <form method="POST">
             {% csrf_token %}
@@ -143,10 +143,10 @@ def surfacearea(request):
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot (20).png>)
+![alt text](<Screenshot (21).png>)
 
 ## HOME PAGE:
-![alt text](<Screenshot (19).png>)
+![alt text](<Screenshot (22).png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
